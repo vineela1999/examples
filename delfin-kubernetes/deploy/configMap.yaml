@@ -55,5 +55,5 @@ data:
     alert_manager_port = '9093'
 kind: ConfigMap
 metadata:
-  name: delfin-configg
+  name: delfin-config
 
